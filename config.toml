@@ -21,7 +21,7 @@ theme = "timer-hugo"
         url     = "gallery"
         weight  = 4
     [[menu.nav]]
-        name    = "Blog"
+        name    = "Blog Post"
         url     = "blog"
         weight  = 5
     [[menu.nav]]
