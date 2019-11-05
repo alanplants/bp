@@ -1,0 +1,17 @@
+enable  : true
+title   : Why We are Different
+description: >
+  We see this blog as an opportunity to express thoughts and feelings on a range of issues related to living in Belgrade. We have broadly set out what we regard as being the philosophical foundation material for creating more liveable spaces within emerging urban contribute to this dialogue. If desired, by expressing their frustrations and constructive critiques of current development issues, but more importantly, by communicating points of concern we are then able to formulate practical strategies to engender a positive environmental evolution.
+image   : images/about/about-company.jpg
+aboutItem:
+  - title : Concept
+    description: > 
+     Notions of what a place is, are wide ranging amongst planners, architects, designers and associated stakeholders. We would characterise it, as an assemblage of complimentary components that inform the evolution of any given space into something that connects with humans at an emotional level. 
+
+  - title : Conundrum
+    description: > 
+      It’s not so easy to capture the philosophical and emotional elements that attach us to the forms and spaces that shape the places in which we spend our lives. In creating a dialogue on the subject, we believe we can begin to piece together the commonalities as a means of providing clarity for future developments.
+
+  - title : Community
+    description: > 
+      We regard this project as an opportunity to express thoughts and feelings on a range of issues related to living in Belgrade. We have broadly set out what we regard as being the philosophical foundational material for creating more liveable spaces and welcome all contributions to the idea exchange. Together we can make a difference.

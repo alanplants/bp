@@ -1,0 +1,38 @@
+enable  : true
+title   : MEET THE TEAM
+members  :
+  - name  : JC
+    image : images/team/team-1.jpg
+    designation : ecologist
+    description : likes trees
+    facebook    : https://www.facebook.com/alan.derbyshire.56
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : JM
+    image : images/team/team-2.jpg
+    designation : researcher
+    description : likes vild nature
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+  
+  - name  : DJ
+    image : images/team/team-3.jpg
+    designation : architect
+    description : likes simplicity
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
+
+  - name  : Anderson Martin
+    image : images/team/team-4.jpg
+    designation : coordinator
+    description : likes people
+    facebook    : https://www.fb.com/themefisher
+    twitter     : https://www.twitter.com/themefisher
+    linkedIn    : https://www.linkedin.com/themefisher
+    googleplus  : https://plus.google.com/themefisher
