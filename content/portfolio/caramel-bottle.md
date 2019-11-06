@@ -1,5 +1,5 @@
 ---
-caption: Product Design
+caption: Connectivity
 category:
 - product
 - mockup
@@ -11,18 +11,19 @@ image: images/portfolio/item-6.jpg
 liveLink: https://www.themefisher.com
 location: 1201 park street, Avenue, Dhaka
 submitDate: November 20, 2017
-title: Caramel Bottle
+title: community
 type: portfolio
 ---
-### Consectur in Bibendum
+### Communication
 
-Totam rem aperiam eaque ipsa quae illo inventore veritatis et quasi architebetea.vitae dicta sunt explicabo. nemo enim ipsam volup as tatem quia voluptassit aspernatur.aut odit aut fugit sed quia consequuntur magni dolores eo ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor amet consectetur adipisci velit. lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Social groupings are a core aspect of what we generally understand to be community. The collective participation at places of work, neighbourhoods and clubs are what have been described as the webs that bind individuals, who would otherwise be on their own, contribute to the maintenance of civic social and moral order.
+Community is to many, the activity of sharing with and participation of commonly held goals that inspire a sense of shared stewardship of neighbourhoods. As such, its important to know one’s neighbour, interacting with them, feeling safe, and experience at least a sense of support through communal networks.  This phenomenon is what  can be described as ‘connectedness’, in other words, the adhesive that binds the disparate elements of any community together. In attempting to qualify the notional values of what constitutes a community, it becomes clear that it is almost impossible to communicate the subjective understanding of what that means to the individual. What we do know is when an environment is community deficient the results are plain to see. These are the places of apathy, the areas within urban settings that are void of a sense of understanding of the natural world. we can experience the general dulling of the senses that occurs when we feel disconnected from the landscape and our fellow citizens.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim est laborum. Sed ut perspiciatis unde omnis iste natus. error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+> The interconnectedness of human beings and their environment is a core theme of sustainable development strategies. 
 
-Consequuntur magni dolores ratione voluptatem.sequi nesciunt neque porro quisquam est dolorem ipsum quia dolor sit amet consectetur adipisci velit.lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.
+Whereas in the past environmentalists focused on the ‘natural’ world i.e. the atmosphere, rivers, seas, etc., the communitarian’s area of expertise analyses societal characteristics i.e. schools neighbourhoods, families etc. The two parallel conceptual entities are now beginning to merge as a framework for urban sustainability. The cross fertilization of both approaches has filtered into urban planning programs and consequently social justice, equity and philanthropy sit side by side with pollution and ozone depletion as factors of sustainable development. Naturally, the success of sustainability programs and how they are assimilated into communities is largely dependent on cooperation with civil organisations and NGOs. 
+
 
 Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus.
 
