@@ -70,7 +70,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT us"
-        content = "We are a collective of professionals reviewing urban environments and are obsessed with architecture, design and urban happenings in particular. Our backgrounds are varied, we have many conflicting opinions and regular arguments, but we are bound by our fascination of the processes and concepts that transform spaces to the ‘seemingly’ more recognisable concept of place. We offer services if required, particularly in ecological development and data analysis in relation to place making."
+        content = "We are a collective of built environment related professionals, reviewing urban environments and as such are obsessed with architecture, design and urban happenings in particular. Our backgrounds are varied, we have many conflicting opinions and regular arguments, but we are bound by our fascination of the processes and concepts that transform spaces to the ‘seemingly’ more recognisable concept of place. We offer services if required, particularly in ecological development and data analysis in relation to place making."
 
         image   = "images/about/about.png"
 
@@ -78,8 +78,8 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "SO WHAT do YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
-        btnText = "Contact with me"
+        content = "Don't be shy, nothing ventured nothing gained, let us hear your point of view"
+        btnText = "Contact us"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
