@@ -1,24 +1,24 @@
 enable  : true
-title   : WHAT WE LOVE TO DO
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis porro recusandae non quibusdam iure adipisci.
+title   : We also do a lot of this
+subtitle: We believe that big data analysis offers an opportunity to drive more environmentally focussed project objectives.
 image   : images/team.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
     title : DATA SCRAPING
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We scrape the digital formats that enable us to build a broader understanding of ecological urtbanism, as a means of targetting good practice.
 
   - icon  : ion-ios-pint-outline
     title : DATA WRANGLING
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We can formulate your available data, or search and re-structure data for specific environmental requirements.
 
   - icon  : ion-ios-paper-outline
     title : ANALYSIS
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Not sure what data you have? We help you frame the questions that can provide the right answers for your project resolutions.
 
   - icon  : ion-ios-paper-outline
     title : DASHBOARD APPS
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We create apps that are clear and informative, providing you with geospatial information at a wide range of scales.
