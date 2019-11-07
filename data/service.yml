@@ -4,21 +4,21 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis
 image   : images/team.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    title : DATA SCRAPING
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : DATA WRANGLING
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : ANALYSIS
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
 
   - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : DASHBOARD APPS
     description: >
       Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum

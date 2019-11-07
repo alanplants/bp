@@ -14,9 +14,9 @@ item    :
       Be proactive in making communities more dynamic and inclusive.
 
   - icon  : ion-ios-americanfootball-outline
-    title : Data wrangling
+    title : Design
     description : >
-      Start to reveal the commonalities of good practice.
+      What's good and what's not.
 
   - icon  : ion-ios-keypad-outline
     title : Innovation
@@ -24,9 +24,9 @@ item    :
       Highlight creativity and learn from experience.
 
   - icon  : ion-ios-barcode-outline
-    title : Design
+    title : Data wrangling
     description : >
-      What's good and what's not.
+      Start to reveal the commonalities of good practice.
   
   - icon  : ion-ios-lightbulb-outline
     title : Ecological Urbanism
