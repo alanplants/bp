@@ -69,14 +69,15 @@ theme = "timer-hugo"
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
+        title   = "ABOUT us"
+        content = "We are a collective of professionals reviewing urban environments and are obsessed with architecture, design and urban happenings in particular. Our backgrounds are varied, we have many conflicting opinions and regular arguments, but we are bound by our fascination of the processes and concepts that transform spaces to the ‘seemingly’ more recognisable concept of place. We offer services if required, particularly in ecological development and data analysis in relation to place making."
+
         image   = "images/about/about.png"
 
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "SO WHAT YOU THINK ?"
+        title   = "SO WHAT do YOU THINK ?"
         content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
         btnText = "Contact with me"
         btnURL  = "/contact"
@@ -84,8 +85,8 @@ theme = "timer-hugo"
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "Latest Works"
-        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+        title   = "Our focus"
+        subtitle= "Whilst you can't be good at everything, we understand our core themes inside out. We'd love to hear any feedback and obsertvations you have and we encourage you to join our community by contributing to our blog."
 
     [params.footer]
         [[params.footer.socialIcon]]

@@ -25,5 +25,4 @@ Community is to many, the activity of sharing with and participation of commonly
 Whereas in the past environmentalists focused on the ‘natural’ world i.e. the atmosphere, rivers, seas, etc., the communitarian’s area of expertise analyses societal characteristics i.e. schools neighbourhoods, families etc. The two parallel conceptual entities are now beginning to merge as a framework for urban sustainability. The cross fertilization of both approaches has filtered into urban planning programs and consequently social justice, equity and philanthropy sit side by side with pollution and ozone depletion as factors of sustainable development. Naturally, the success of sustainability programs and how they are assimilated into communities is largely dependent on cooperation with civil organisations and NGOs. 
 
 
-Reprehenderit in voluptate velit esse cillum dolore fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident. sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus.
 
