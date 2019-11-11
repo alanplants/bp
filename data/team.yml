@@ -3,8 +3,8 @@ title   : MEET THE TEAM
 members  :
   - name  : JC
     image : images/team/team-1.jpg
-    designation : ecologist
-    description : likes trees
+    designation : Urbanist/Ecologist
+    description : Nature and buildings belong together
     facebook    : https://www.facebook.com/alan.derbyshire.56
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -12,8 +12,8 @@ members  :
   
   - name  : JM
     image : images/team/team-2.jpg
-    designation : researcher
-    description : likes vild nature
+    designation : Developer
+    description : I love to make things
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -21,8 +21,8 @@ members  :
   
   - name  : DJ
     image : images/team/team-3.jpg
-    designation : architect
-    description : likes simplicity
+    designation : Architect
+    description : Ideas are everything
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -30,8 +30,8 @@ members  :
 
   - name  : AM
     image : images/team/team-4.jpg
-    designation : coordinator
-    description : likes people
+    designation : Planner
+    description : Smart buildings are ecological buildings
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
