@@ -3,13 +3,11 @@ caption: Place Making
 category:
 - fashion
 - package
-client: Julia Robertson
 date: "2018-07-12T16:57:54+06:00"
 description: This is meta description
 image: images/portfolio/item-4.jpg
-liveLink: https://www.themefisher.com
-location: 1201 park street, Avenue, Dhaka
-submitDate: November 20, 2017
+liveLink: https://beoplace.space
+
 title: Concept of Place
 type: portfolio
 ---

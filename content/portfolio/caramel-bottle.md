@@ -4,13 +4,12 @@ category:
 - product
 - mockup
 - design
-client: Julia Robertson
+
 date: "2018-07-12T16:59:54+06:00"
 description: This is meta description
 image: images/portfolio/item-6.jpg
-liveLink: https://www.themefisher.com
-location: 1201 park street, Avenue, Dhaka
-submitDate: November 20, 2017
+liveLink: https://beoplace.space
+
 title: community
 type: portfolio
 ---

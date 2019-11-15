@@ -3,13 +3,11 @@ caption: Potential to Influence
 category:
 - bag
 - mockup
-client: Julia Robertson
+
 date: "2018-07-12T16:58:55+06:00"
 description: This is meta description
 image: images/portfolio/item-5.jpg
-liveLink: https://www.themefisher.com
-location: 1201 park street, Avenue, Dhaka
-submitDate: November 20, 2017
+liveLink: https://beoplace.space
 title: Technologies
 type: portfolio
 ---
