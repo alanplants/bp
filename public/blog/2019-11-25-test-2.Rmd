@@ -1,0 +1,16 @@
+---
+title: Test 2
+author: alan
+date: '2019-11-25'
+slug: test-2
+categories: []
+tags: []
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# My 1st Blog Post
+
+Using *RMarkdown*
