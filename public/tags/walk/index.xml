@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>walk on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
+    <link>/tags/walk/</link>
+    <description>Recent content in walk on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/walk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Place, Zemun Kej</title>
+      <link>/blog/my-place-zemun-kej/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/my-place-zemun-kej/</guid>
+      <description>Living far away from home, family and friends makes me need a place where I can breath and find peace of mind. My place is a place, feeling and a necessity for me. The place is the quay along the river Danube, more specifically the end of the man made quay in Zemun. Zemun Kej is my paradise when walking there with my dogs early in the morning. I always meet the same few existences; the men who are standing on the brink with fishing poles trying to catch a fish or two, the stray cats watching the men begging for them to give them their smallest catch, the very cheerful lady who feeds the many swans with leftover bread from nearby restaurants.</description>
+    </item>
+    
+  </channel>
+</rss>

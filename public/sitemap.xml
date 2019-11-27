@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/tags/brutal/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/danube/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/my-place-zemun-kej/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/purpose/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,6 +34,11 @@
   
   <url>
     <loc>/tags/walk/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/alan-s-blog-post/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url>
   

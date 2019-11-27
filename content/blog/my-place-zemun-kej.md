@@ -3,7 +3,7 @@ title: My Place, Zemun Kej
 author: Janne
 date: '2019-11-25'
 description: A walk down the river
-image: images/blog/zem-kej.jpg
+image: images/blog/janne.jpg
 tags:
 - Danube
 - walk

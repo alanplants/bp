@@ -6,26 +6,44 @@
     <description>Recent content in Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>inspiration</title>
-      <link>/tags/inspiration/</link>
-      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      <title>brutal</title>
+      <link>/tags/brutal/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/inspiration/</guid>
+      <guid>/tags/brutal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>motivation</title>
-      <link>/tags/motivation/</link>
-      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      <title>Danube</title>
+      <link>/tags/danube/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/motivation/</guid>
+      <guid>/tags/danube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purpose</title>
+      <link>/tags/purpose/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/purpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>walk</title>
+      <link>/tags/walk/</link>
+      <pubDate>Mon, 25 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/walk/</guid>
       <description></description>
     </item>
     
@@ -44,24 +62,6 @@
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
       <guid>/tags/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>business</title>
-      <link>/tags/business/</link>
-      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
-      
-      <guid>/tags/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>people</title>
-      <link>/tags/people/</link>
-      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
-      
-      <guid>/tags/people/</guid>
       <description></description>
     </item>
     

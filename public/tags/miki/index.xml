@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>miki on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
+    <link>/tags/miki/</link>
+    <description>Recent content in miki on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
+    
+	<atom:link href="/tags/miki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>how to be mila?</title>
+      <link>/blog/2019-11-25-tanja/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>/blog/2019-11-25-tanja/</guid>
+      <description>start writing my post
+ggjkhjkhkjh link</description>
+    </item>
+    
+  </channel>
+</rss>
