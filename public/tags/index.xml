@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>City</title>
       <link>/tags/city/</link>
-      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>turski sed</title>
+      <link>/tags/turski-sed/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/turski-sed/</guid>
       <description></description>
     </item>
     
