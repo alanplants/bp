@@ -1,7 +1,7 @@
 ---
 title: My place, Car park, Cetinska
 author: DJ
-date: '2019-12-11'
+date: '2019-12-23'
 description: Nothing to see here! 
 image: images/blog/place-me.jpg
 tags:
