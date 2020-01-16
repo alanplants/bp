@@ -10,7 +10,7 @@ description: This is meta description
 image: images/portfolio/item-6.jpg
 liveLink: https://beoplace.space
 
-title: community
+title: Community
 type: portfolio
 ---
 ### Communication
