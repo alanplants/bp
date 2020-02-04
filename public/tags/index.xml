@@ -6,10 +6,28 @@
     <description>Recent content in Tags on BeoPlace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>City</title>
+      <link>/tags/city/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>discussion</title>
+      <link>/tags/discussion/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/discussion/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Cetinska</title>
@@ -17,15 +35,6 @@
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/cetinska/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>City</title>
-      <link>/tags/city/</link>
-      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/city/</guid>
       <description></description>
     </item>
     
