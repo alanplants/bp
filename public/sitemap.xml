@@ -18,17 +18,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2020-02-04-the-feel-good-potential-of-neglected-spaces/</loc>
+    <loc>/blog/2020-02-04-greenspace-belgrade/</loc>
     <lastmod>2020-02-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,6 +148,11 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -165,11 +165,6 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-02-04-the-feel-good-potential-of-neglected-spaces/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
