@@ -1,7 +1,7 @@
 ---
 title: Relic and Remembrance
 author: PA
-date: '2020-02-19'
+date: '2020-02-18'
 description: artefact 
 image: images/blog/bomb.jpg
 tags:
