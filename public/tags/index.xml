@@ -6,7 +6,7 @@
     <description>Recent content in Tags on BeoPlace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>City</title>
       <link>/tags/city/</link>
-      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tasmajdan</title>
+      <link>/tags/tasmajdan/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tasmajdan/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/cetinska/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tasmajdan</title>
-      <link>/tags/tasmajdan/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tasmajdan/</guid>
       <description></description>
     </item>
     
