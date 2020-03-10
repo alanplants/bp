@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Park on BeoPlace</title>
+    <link>/tags/park/</link>
+    <description>Recent content in Park on BeoPlace</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/park/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Place, Park-šuma Zvezdara</title>
+      <link>/blog/2020-03-10-urban-nature-interface/</link>
+      <pubDate>Tue, 10 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020-03-10-urban-nature-interface/</guid>
+      <description>Nine months ago, I relocated to Belgrade and moved into an apartment near Vukov Spomenik. I soon found the best way to walk to the city centre was through Tašmajdan, an urban park with paved walkways surrounded by lawns and a few trees. A couple of months later, I was really missing walking through woodland areas and began looking on maps to find one nearby. It was then that I discovered a wood not far from my apartment called Park-šuma Zvezdara.</description>
+    </item>
+    
+  </channel>
+</rss>
